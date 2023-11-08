@@ -3,7 +3,7 @@
 const BgBlog = () => {
 
     return (
-        <div className="hero min-h-screen" style={{backgroundImage: 'url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)'}}>
+        <div className="hero min-h-screen" style={{backgroundImage: 'url(https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png)'}}>
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md">
