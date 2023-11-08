@@ -53,7 +53,7 @@ const Navbar = () => {
                     : "text-sm  font-semibold"
                 }
               >
-                Project
+                PROJECT
               </NavLink>
             }
           </li>
@@ -67,7 +67,7 @@ const Navbar = () => {
                     : "text-sm  font-semibold"
                 }
               >
-               Blog
+               BLOG
               </NavLink>
             }
           </li>
@@ -81,7 +81,7 @@ const Navbar = () => {
                     : "text-sm  font-semibold"
                 }
               >
-                Service
+                SERVICE
               </NavLink>
             }
           </li>
